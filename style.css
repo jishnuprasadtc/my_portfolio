@@ -1,3 +1,9 @@
+.main{
+    background-color: #088395;
+}
+
+
+
 .card-image{
     object-fit: fill;
 }
@@ -13,3 +19,4 @@
 .text-clr{
     color: #071952;
 }
+

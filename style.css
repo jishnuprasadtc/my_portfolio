@@ -5,3 +5,11 @@
 .carousel-item>img{
     height: 500px;
 }
+
+.bg-heading{
+    background-color: #071952;
+}
+
+.text-clr{
+    color: #071952;
+}
